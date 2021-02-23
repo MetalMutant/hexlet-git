@@ -1,2 +1,1 @@
-Hello, Hexlet! How are you?
-Jurassic Park
+No code No pain
